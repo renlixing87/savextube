@@ -519,11 +519,6 @@ youtube_convert_to_mp4 = true
 
 欢迎提交Issue和Pull Request来帮助改进SaveXTube！
 
-### ☕ 请作者喝杯咖啡
-
-<img src="wechat_pay_qr.jpg" alt="微信支付收款码" width="300">
-
-如果这个项目对您有帮助，欢迎请作者喝杯咖啡 ☕
 
 ## 💬 交流与支持
 
